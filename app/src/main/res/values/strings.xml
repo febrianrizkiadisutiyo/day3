@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">day3</string>
+    <string name="latihan_intent">Latihan Intent</string>
+    <string name="halaman_2">halaman 2</string>
+    <string name="halaman_3">halaman 3</string>
+    <string name="hal_2">hal 2</string>
+    <string name="hal_3">hal 3</string>
+    <string name="hal_4">hal 4</string>
+    <string name="hal_5">hal 5</string>
+    <string name="ini_halaman_2">Ini Halaman 2</string>
+    <string name="bawa_data">bawa data</string>
+    <string name="bagikan">bagikan</string>
+    <string name="menerima_data">Menerima Data</string>
+    <string name="data_nama">Data Nama</string>
+    <string name="data_nim">Data NIM</string>
+    <string name="aplikasi_kasir">Aplikasi Kasir</string>
+    <string name="masukkan_barang">Masukkan Barang</string>
+    <string name="masukkan_jumlah">Masukkan Jumlah</string>
+    <string name="hitung">Hitung</string>
+    <string name="share">Share</string>
+    <string name="hasil">Hasil</string>
+    <string name="nama_barang">Nama Barang :</string>
+    <string name="total_harga">Total Harga</string>
+    <string name="diskon">Diskon</string>
+</resources>
